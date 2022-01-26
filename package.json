@@ -1,0 +1,12 @@
+{
+  "name": "swc-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.2.133"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
