@@ -6,7 +6,8 @@ const swcOptions = {
   jsc: {
     parser: {
       syntax: 'typescript',
-      tsx: false,
+      decorators: false,
+      tsx: true,
     },
   },
 };
